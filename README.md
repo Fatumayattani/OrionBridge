@@ -134,3 +134,9 @@ OrionBridge incorporates AI tools to monitor transactions and detect fraudulent 
 ## Contributing
 
 We welcome contributions to OrionBridge! If you would like to contribute, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
