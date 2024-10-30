@@ -119,3 +119,4 @@ This section provides an overview of the smart contracts (canisters) developed i
 ---
 
 ## Frontend Development
+The frontend is built using React.js, providing a responsive and user-friendly interface for users to interact with OrionBridge. Key components include:
