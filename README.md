@@ -86,4 +86,8 @@ To get started with OrionBridge, follow these steps:
 
  ## Usage
 
-### Running the Backend  
+### Running the Backend
+1. **Navigate to the backend directory:**
+   ```bash
+   cd backend
+   ```
