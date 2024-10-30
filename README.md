@@ -1,5 +1,4 @@
 
-  - [Bitcoin integration: How it works](https://internetcomputer.org/docs/current/references/bitcoin-how-it-works)
 
 ## Why use Motoko?
 
