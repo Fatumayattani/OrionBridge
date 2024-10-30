@@ -128,3 +128,9 @@ The frontend is built using React.js, providing a responsive and user-friendly i
 
 ## AI-Powered Fraud Detection
 OrionBridge incorporates AI tools to monitor transactions and detect fraudulent activities. This system analyzes transaction patterns and user behavior to ensure secure remittances.
+
+---
+
+## Contributing
+
+We welcome contributions to OrionBridge! If you would like to contribute, please fork the repository and submit a pull request.
