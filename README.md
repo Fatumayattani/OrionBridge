@@ -1,7 +1,4 @@
 
-## Deploying to the mainnet
-
-```
 dfx deploy --network ic
 ```
 
