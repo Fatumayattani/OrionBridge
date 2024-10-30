@@ -4,4 +4,17 @@ OrionBridge is a cross-border remittance platform designed to enable fast, low-c
 
 ---
 
+## Table of Contents
 
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Smart Contract Development](#smart-contract-development)
+- [Frontend Development](#frontend-development)
+- [AI-Powered Fraud Detection](#ai-powered-fraud-detection)
+- [Contributing](#contributing)
+- [License](#license)
