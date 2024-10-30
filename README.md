@@ -95,3 +95,9 @@ To get started with OrionBridge, follow these steps:
    ```bash
    dfx deploy
    ```   
+### Running the Frontend
+
+1. **Navigate to the frontend directory:**
+   ```bash
+   cd frontend
+   ```   
