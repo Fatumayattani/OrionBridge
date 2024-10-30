@@ -105,4 +105,13 @@ To get started with OrionBridge, follow these steps:
    ```bash
    npm start
    ```   
-3. Open your browser and go to `http://localhost:3000` to access the OrionBridge application.   
+3. Open your browser and go to `http://localhost:3000` to access the OrionBridge application. 
+
+---
+
+## Smart Contract Development
+
+This section provides an overview of the smart contracts (canisters) developed in Motoko for OrionBridge.
+
+- **Canister Overview:** The canisters handle stablecoin transactions, currency conversion, and user interactions.
+- **Integration with Ethereum and Bitcoin:** The canisters communicate with Ethereum and Bitcoin networks to facilitate transactions and conversions.  
