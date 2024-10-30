@@ -21,3 +21,6 @@ OrionBridge is a cross-border remittance platform designed to enable fast, low-c
 
 ----
 
+## Problem Statement
+
+Traditional remittance services like Western Union are expensive and slow, making it difficult for African diaspora communities to send money home. High fees and lengthy processing times hinder financial support to families and businesses in need.
