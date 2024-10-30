@@ -1,5 +1,4 @@
 
-  - [Bitcoin addresses](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/generate-addresses)
   - [Bitcoin transactions](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/create-transactions)
   - [Bitcoin integration: How it works](https://internetcomputer.org/docs/current/references/bitcoin-how-it-works)
 
