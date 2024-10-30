@@ -105,3 +105,4 @@ To get started with OrionBridge, follow these steps:
    ```bash
    npm start
    ```   
+3. Open your browser and go to `http://localhost:3000` to access the OrionBridge application.   
