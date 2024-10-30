@@ -49,3 +49,7 @@ OrionBridge offers a remittance platform that allows users to send stablecoins o
 - **React.js:** The frontend framework for building the user interface.
 - **Ethereum and Bitcoin Integration:** For seamless transactions and currency conversion.
 - **AI/ML Tools:** For fraud detection and monitoring.
+
+---
+
+## Project Structure
