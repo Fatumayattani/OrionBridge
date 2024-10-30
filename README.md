@@ -1,5 +1,4 @@
 
-- [Chain Fusion overview](https://internetcomputer.org/docs/current/developer-docs/multi-chain/overview)
 - [Bitcoin integration overview](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/overview)
 - [Bitcoin addresses](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/generate-addresses)
 - [Bitcoin transactions](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/create-transactions)
