@@ -1,7 +1,3 @@
-
-dfx deploy --network ic
-```
-
 ### Obtaining cycles
 
 To deploy to the mainnet, you will need cycles, the currency used to pay gas fees on ICP. To obtain cycles during HackMIT:
