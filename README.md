@@ -1,7 +1,4 @@
 
-## Prerequisites
-
-- You will need to have [dfx installed](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/#installing-dfx-via-dfxvm).
 
 ## Running this project locally
 
