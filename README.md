@@ -26,3 +26,7 @@ OrionBridge is a cross-border remittance platform designed to enable fast, low-c
 Traditional remittance services like Western Union are expensive and slow, making it difficult for African diaspora communities to send money home. High fees and lengthy processing times hinder financial support to families and businesses in need.
 
 ---
+
+## Solution
+
+OrionBridge offers a remittance platform that allows users to send stablecoins over ICP, with an option for on-demand conversion to Bitcoin or Ethereum. This solution minimizes costs and enhances the speed of transactions.
