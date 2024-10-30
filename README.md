@@ -1,5 +1,4 @@
 
-- Insert your coupon code and follow the on-screen instructions to redeem.
 
 #### Notes
 - You will need to have [dfx installed](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/#installing-dfx-via-dfxvm).
