@@ -1,4 +1,4 @@
-# HackMIT Workshop: Internet Computer: Building Cross-Chain Applications
+
 
 [Google Slides Workshop presentation](https://docs.google.com/presentation/d/16JbWeHW7z29-5hg7GK9Uwry5OpQOovu7DfSuN2Noi6Q/edit?usp=sharing)
 
