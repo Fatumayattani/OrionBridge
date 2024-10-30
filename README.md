@@ -91,3 +91,7 @@ To get started with OrionBridge, follow these steps:
    ```bash
    cd backend
    ```
+2. **Deploy the Motoko canisters:**
+   ```bash
+   dfx deploy
+   ```   
