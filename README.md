@@ -1,7 +1,4 @@
 
-
-Note: Not all functionality of this project will work locally, and it is recommended to deploy this project to the mainnet.
-
 ## Deploying to the mainnet
 
 ```
