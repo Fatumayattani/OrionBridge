@@ -39,3 +39,4 @@ OrionBridge offers a remittance platform that allows users to send stablecoins o
 - **On-Chain Currency Conversion:** Convert stablecoins to Bitcoin or Ethereum seamlessly.
 - **Transparent Fee Structure:** ICP dashboard provides real-time visibility of transaction fees.
 - **AI-Powered Fraud Detection:** Monitor unusual activities to protect users and transactions.
+- **User-Friendly Interface:** A responsive React.js frontend ensures easy navigation and transaction processing.
