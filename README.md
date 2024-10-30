@@ -1,5 +1,5 @@
 
-- The first function makes a call to the Ethereum mainnet through the [ICP EVM RPC canister](https://internetcomputer.org/docs/current/developer-docs/multi-chain/ethereum/evm-rpc/overview) using the PublicNode RPC provider and [HTTPS outcalls](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/advanced-features/https-outcalls/https-outcalls-overview). It retrieves log information from Ethereum about a specific address and topic.
+- multi-chain/ethereum/evm-rpc/overview) using the PublicNode RPC provider and [HTTPS outcalls](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/advanced-features/https-outcalls/https-outcalls-overview). It retrieves log information from Ethereum about a specific address and topic.
   -  If this function returns a successful result, it calls the second function.
 -  The second function sends Bitcoin to a specified address.
   - In this example, the Bitcoin transaction is fabricated and will not send a real transaction. Instead, the expected result is a "Malformed transaction" error message. This is because creating a Bitcoin transaction is out of the scope of this workshop, but can be accomplished by following the ICP developer docs:
