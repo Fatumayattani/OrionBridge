@@ -140,3 +140,7 @@ We welcome contributions to OrionBridge! If you would like to contribute, please
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+### Key Changes Made:
+- Adjusted the focus on using DFX for ICP development.
+- Included a simple example of a Motoko canister for demonstration.
+- Emphasized that the project is entirely built using DFX for deploying canisters.
