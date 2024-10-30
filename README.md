@@ -1,7 +1,5 @@
 
 
-## Why use Motoko?
-
 Motoko is a modern, general-purpose programming language specifically to author ICP canister smart contracts and utilize ICP’s unique features and architecture. It is designed to be approachable for programmers who have some basic familiarity with object-oriented and/or functional programming:JavaScript, Rust, Swift, TypeScript, C#, or Java. It uses an actor-based model and orthogonal persistence for simple, safe, and efficient data storage without a database or secondary memory.
 
 ## Prerequisites
