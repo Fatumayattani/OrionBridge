@@ -1,4 +1,4 @@
-This example creates a canister smart contract with two functions: 
+
 - The first function makes a call to the Ethereum mainnet through the [ICP EVM RPC canister](https://internetcomputer.org/docs/current/developer-docs/multi-chain/ethereum/evm-rpc/overview) using the PublicNode RPC provider and [HTTPS outcalls](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/advanced-features/https-outcalls/https-outcalls-overview). It retrieves log information from Ethereum about a specific address and topic.
   -  If this function returns a successful result, it calls the second function.
 -  The second function sends Bitcoin to a specified address.
