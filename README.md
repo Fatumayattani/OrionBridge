@@ -73,7 +73,7 @@ To get started with OrionBridge, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Fatumayattani/OrionBridge.git
-   cd orionbridge
+   cd OrionBridge
    ```
 2. **Install the necessary tools:**
    - Make sure you have the [DFX CLI](https://internetcomputer.org/docs/developers-guide/install-dfx) installed for developing with ICP.
