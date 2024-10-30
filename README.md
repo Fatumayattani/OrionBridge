@@ -1,6 +1,4 @@
 
-- **Interoperability with Web2**: The HTTPS outcall feature permits canisters to reach out to any web service in a replicated fashion, using deterministic response results.
-
 ## How this example works
 
 This example creates a canister smart contract with two functions: 
