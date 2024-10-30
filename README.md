@@ -2,7 +2,6 @@
 
 
 
-Chain Fusion allows ICP to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a bridge. This is made possible through decentralized bi-direct
 - **Web2-like user experience**: Low cost, fast finality, and the reverse gas model make interacting with a smart contract on ICP closely resemble the user experience of traditional web services. 
 - **Performance**: Smart contracts support a vast range of web services, from social networks to full-fledged AI models. 
 - **Storage**: A single smart contract on ICP offers up to 400 GiB of storage, enabling all application data to be stored on-chain. 
