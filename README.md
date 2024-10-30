@@ -53,3 +53,16 @@ OrionBridge offers a remittance platform that allows users to send stablecoins o
 ---
 
 ## Project Structure
+```
+/orionbridge
+├── /backend                   # Contains Motoko canister code
+│   ├── src
+│   ├── dfx.json
+│   └── ...
+├── /frontend                  # Contains React.js application code
+│   ├── public
+│   ├── src
+│   └── ...
+├── README.md                  # This README file
+└── ...
+```
