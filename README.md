@@ -1,5 +1,4 @@
 
-- **Performance**: Smart contracts support a vast range of web services, from social networks to full-fledged AI models. 
 - **Storage**: A single smart contract on ICP offers up to 400 GiB of storage, enabling all application data to be stored on-chain. 
 - **Autonomy**: Canisters are capable of scheduling messages for themselves at any given interval, allowing them to operate without the need for user inputs or management. 
 - **Interoperability with Web2**: The HTTPS outcall feature permits canisters to reach out to any web service in a replicated fashion, using deterministic response results.
