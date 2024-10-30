@@ -46,3 +46,4 @@ OrionBridge offers a remittance platform that allows users to send stablecoins o
 ## Technologies Used
 - **Internet Computer (ICP):** The underlying blockchain platform.
 - **Motoko:** The programming language used for developing canisters (smart contracts) on ICP.
+- **React.js:** The frontend framework for building the user interface.
