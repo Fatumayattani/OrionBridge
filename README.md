@@ -30,3 +30,5 @@ Traditional remittance services like Western Union are expensive and slow, makin
 ## Solution
 
 OrionBridge offers a remittance platform that allows users to send stablecoins over ICP, with an option for on-demand conversion to Bitcoin or Ethereum. This solution minimizes costs and enhances the speed of transactions.
+
+---
