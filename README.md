@@ -78,7 +78,6 @@ To get started with OrionBridge, follow these steps:
 2. **Install the necessary tools:**
    - Make sure you have the [DFX CLI](https://internetcomputer.org/docs/developers-guide/install-dfx) installed for developing with ICP.
    - Install [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm) for React.js.
-    ```
 3. **Install dependencies for the frontend:**
    ```bash
    cd frontend
