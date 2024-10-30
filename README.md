@@ -1,7 +1,5 @@
 
 
-[Google Slides Workshop presentation](https://docs.google.com/presentation/d/16JbWeHW7z29-5hg7GK9Uwry5OpQOovu7DfSuN2Noi6Q/edit?usp=sharing)
-
 ## What is Chain Fusion? 
 
 Chain Fusion allows ICP to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a bridge. This is made possible through decentralized bi-directional communication of ICP with other chains and the ability of ICP smart contracts to sign and submit transactions to other chains.
