@@ -48,3 +48,4 @@ OrionBridge offers a remittance platform that allows users to send stablecoins o
 - **Motoko:** The programming language used for developing canisters (smart contracts) on ICP.
 - **React.js:** The frontend framework for building the user interface.
 - **Ethereum and Bitcoin Integration:** For seamless transactions and currency conversion.
+- **AI/ML Tools:** For fraud detection and monitoring.
