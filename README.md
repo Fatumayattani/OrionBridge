@@ -1,7 +1,4 @@
 
-
-
-  - In this example, the Bitcoin transaction is fabricated and will not send a real transaction. Instead, the expected result is a "Malformed transaction" error message. This is because creating a Bitcoin transaction is out of the scope of this workshop, but can be accomplished by following the ICP developer docs:
   - [Bitcoin integration overview](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/overview)
   - [Bitcoin addresses](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/generate-addresses)
   - [Bitcoin transactions](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/using-btc/create-transactions)
