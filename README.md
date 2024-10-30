@@ -72,6 +72,6 @@ To get started with OrionBridge, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com//orionbridge.git
+   git clone https://github.com/Fatumayattani/OrionBridge.git
    cd orionbridge
    ```
