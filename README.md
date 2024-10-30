@@ -1,6 +1,4 @@
 
-- Cycles coupon is good for 10T cycles, which is typically enough for deploying a frontend and backend canister.
-- Recommendation: Do not deploy to the mainnet until your dapp is complete.
 
 ## Resources 
 
