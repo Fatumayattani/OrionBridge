@@ -1,5 +1,4 @@
-- Request a coupon code from the ICP HUB team on Discord in the HackMIT channel.
-- Go to [https://faucet.dfinity.org](https://faucet.dfinity.org).
+
 - Insert your coupon code and follow the on-screen instructions to redeem.
 
 #### Notes
