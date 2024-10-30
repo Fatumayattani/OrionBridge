@@ -101,3 +101,7 @@ To get started with OrionBridge, follow these steps:
    ```bash
    cd frontend
    ```   
+2. **Start the React application:**
+   ```bash
+   npm start
+   ```   
