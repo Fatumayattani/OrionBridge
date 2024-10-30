@@ -1,6 +1,6 @@
 
 
-## What is Chain Fusion? 
+
 
 Chain Fusion allows ICP to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a bridge. This is made possible through decentralized bi-directional communication of ICP with other chains and the ability of ICP smart contracts to sign and submit transactions to other chains.
 - **Web2-like user experience**: Low cost, fast finality, and the reverse gas model make interacting with a smart contract on ICP closely resemble the user experience of traditional web services. 
