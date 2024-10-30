@@ -1,5 +1,4 @@
 
-- [ICP Developer Docs](https://internetcomputer.org/docs/current/developer-docs/getting-started/overview-of-icp)
 - [ICP Developer Journey tutorial series](https://internetcomputer.org/docs/current/tutorials/developer-journey/)
 - [Motoko documentation](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
 - [Chain Fusion overview](https://internetcomputer.org/docs/current/developer-docs/multi-chain/overview)
