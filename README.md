@@ -123,3 +123,7 @@ The frontend is built using React.js, providing a responsive and user-friendly i
 - **Dashboard:** Displays transaction history and current balances.
 - **Transaction Form:** Allows users to send stablecoins and view conversion options.
 - **Fraud Detection Alerts:** Notifies users of any suspicious activities.
+
+---
+
+## AI-Powered Fraud Detection
